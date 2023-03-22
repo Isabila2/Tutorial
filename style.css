@@ -2,9 +2,31 @@
 
 /*Cabeçalho*/
 header{
-	background-color: #3db36b;
+	background-color: #d6d6d6f1;
 	color: #fff;
-	padding: 15px;
+	padding: 35px;
 	text-align: center;
+	border-bottom: 5px solid #2e2e2e41;
 }
 /*Grid de produtos*/
+.container{
+	background-color: #ffffff;
+	min-height: 90vh;
+	padding: 100px;
+
+}
+
+footer{
+	background-color: #000000;
+	color: #fff;
+	border-top: 3px solid #383737b6;
+	padding: 60px;
+
+}
+
+.card{
+	width: 31%;
+	display: inline-block;
+	
+}
+
